@@ -128,5 +128,3 @@ fun SearchTitlesScreen(onBack: () -> Unit) {
     }
 }
 
-
-
